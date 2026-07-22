@@ -1,6 +1,6 @@
 ---
 Title: Mission and Vision
-Version: 1.0
+Version: 0.1
 Status: Approved
 Owner: Product Team
 Last Updated: 2026-07-22
