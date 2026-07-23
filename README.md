@@ -26,7 +26,7 @@ Help guitarists capture inspiration, preserve great tones, and recreate them whe
 
 ## Current Status
 
-**Sprint 1 – Product Foundation**
+**Sprint 01 – Product Foundation**
 
 **Current Milestone:** 1.2 – Blueprints
 
