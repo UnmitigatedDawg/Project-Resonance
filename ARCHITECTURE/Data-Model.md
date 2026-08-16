@@ -1,17 +1,16 @@
----
+# Data Model
 
-title: "Data Model"
-version: "0.1"
-status: "Draft"
-owner: "Product Team"
-last_updated: "2026-08-16"
-related_documents:
+**Version:** 0.1  
+**Status:** Draft  
+**Owner:** Product Team  
+**Last Updated:** 2026-08-16  
 
-* "Architecture-Overview.md"
-* "Application-Architecture.md"
-* "Bluetooth-Architecture.md"
-* "Persistence-Architecture.md"
-* "Engineering-Standards.md"
+**Related Documents:**
+- Architecture-Overview.md
+- Application-Architecture.md
+- Bluetooth-Architecture.md
+- Persistence-Architecture.md
+- Engineering-Standards.md
 
 ---
 
