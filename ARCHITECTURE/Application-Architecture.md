@@ -1,19 +1,16 @@
 ---
-
-Title: Application Architecture
-Version: 0.1
-Status: Draft
-Owner: Product Team
-Last Updated: 2026-08-16
-Related Documents:
-
-* Architecture-Overview.md
-* Data-Model.md
-* Navigation-Architecture.md
-* Bluetooth-Architecture.md
-* Dependency-Injection.md
-* Engineering-Standards.md
-
+title: "Application Architecture"
+version: "0.1"
+status: "Draft"
+owner: "Product Team"
+last_updated: "2026-08-16"
+related_documents:
+  - "Architecture-Overview.md"
+  - "Data-Model.md"
+  - "Navigation-Architecture.md"
+  - "Bluetooth-Architecture.md"
+  - "Dependency-Injection.md"
+  - "Engineering-Standards.md"
 ---
 
 # Application Architecture
